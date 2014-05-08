@@ -1,0 +1,13 @@
+defults: &defaults
+  twitter:
+    clientID: "CONSUMERKEY"
+    clientSecret: "CONSUMERSECRET"
+
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults

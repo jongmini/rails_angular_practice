@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  privider: MyString
+  uid: MyString
+  user_id: 1
+  token: MyString
+  secret: MyString
+  name: MyString
+  url: MyString
+
+two:
+  privider: MyString
+  uid: MyString
+  user_id: 1
+  token: MyString
+  secret: MyString
+  name: MyString
+  url: MyString
